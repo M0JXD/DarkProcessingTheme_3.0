@@ -172,7 +172,7 @@ manager.tab.gradient.top = #132638
 manager.tab.gradient.bottom = #122535
 manager.tab.background = #132638
 
-# tree for Examples and Sketchbook windows
+# tree for Examples and Sketchbook windows 
 tree.font = processing.sans,plain,12
 
 
