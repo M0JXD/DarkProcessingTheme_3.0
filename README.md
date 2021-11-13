@@ -1,9 +1,9 @@
 ![screenshot](https://raw.github.com/jeffThompson/DarkProcessingTheme_3.0/master/screenshot.png)
 
-Dark Processing Theme (for 3.0)
+Dark Processing Theme (for 3.0 & 4)
 ===================
-
-A dark theme for the Processing IDE (a little easier on the eyes!) for Processing 3.0.
+********* This fork changes the "theme.txt" file so the theme works with Processing 4 *********
+A dark theme for the Processing IDE (a little easier on the eyes!) for Processing 3.0.T
 
 For a Processing 2.0 theme, see [this repository](https://github.com/jeffThompson/DarkProcessingTheme_2.0), for P5 1.5, see [this repo](https://github.com/jeffThompson/DarkProcessingTheme).
 
