@@ -1,4 +1,4 @@
-# Dark Processing Themefor 4.0
+# Dark Processing Theme for 4.0
 
 ![Processing 4 Screenshot](https://user-images.githubusercontent.com/94254558/187070941-387a35ac-586b-41d8-a837-2eea174e1e21.png)
 
